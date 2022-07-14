@@ -1,0 +1,5 @@
+- remove certain groups by selector
+- combine repeated styles
+- remove invisible shapes
+- multiple overlapping shapes can be combined
+- ungroup single shapes wrapped in a group

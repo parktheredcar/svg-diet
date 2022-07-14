@@ -1,0 +1,11 @@
+usage: svgdiet.py [-h] [-o] input_file output_file
+
+put an svg on a diet
+
+positional arguments:
+  input_file       the input svg
+  output_file      the output filename
+
+options:
+  -h, --help       show this help message and exit
+  -o, --overwrite  overwrite existing output file
